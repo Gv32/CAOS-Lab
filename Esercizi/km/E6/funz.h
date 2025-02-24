@@ -1,0 +1,1 @@
+void fun(int *vet, char *stringa,int n);
